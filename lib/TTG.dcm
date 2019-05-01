@@ -1,0 +1,30 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal_GND23
+D Four pin crystal (GND on pins 2 and 3), e.g. in SMD package
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP FSA3157L6X
+D Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, MicroPak-6
+K CMOS Analog Switch
+F https://www.fairchildsemi.com/datasheets/NC/NC7SB3157.pdf
+$ENDCMP
+#
+$CMP MMBTFJ310
+D Transistor N-JFET (general)
+K njfet n-jfet transistor
+$ENDCMP
+#
+$CMP NC7SB3157L6X
+D Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, MicroPak-6
+K CMOS Analog Switch
+F https://www.fairchildsemi.com/datasheets/NC/NC7SB3157.pdf
+$ENDCMP
+#
+$CMP SI2301-TP
+D Transistor N-MOSFETwith substrate diode (general)
+K NMOS n-mos n-mosfet transistor
+$ENDCMP
+#
+#End Doc Library

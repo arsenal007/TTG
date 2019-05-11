@@ -16,6 +16,11 @@ D Transistor N-JFET (general)
 K njfet n-jfet transistor
 $ENDCMP
 #
+$CMP N7ZWY1_4
+D Transformer, single primary, single secondary
+K transformer coil magnet
+$ENDCMP
+#
 $CMP NC7SB3157L6X
 D Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, MicroPak-6
 K CMOS Analog Switch
